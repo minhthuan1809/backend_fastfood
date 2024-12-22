@@ -27,4 +27,4 @@ Dự án cung cấp các chức năng cơ bản cho một website bán đồ ăn
 - MySQL
 - PHPMailer - Gửi email
 
-Tác giả: Nguyễn Đắc Huy - 2024
+Tác giả: Nguyễn Đắc Huy - 12/2024
