@@ -23,7 +23,7 @@ Dự án cung cấp các chức năng cơ bản cho một website bán đồ ăn
 
 ## 🔧 Công nghệ sử dụng
 
-- PHP 7.4+
+- PHP 8.2.25
 - MySQL
 - PHPMailer - Gửi email
 
